@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#14171a"/>
+  <path d="M0 600h1200" stroke="#262c32" stroke-width="2"/>
+  <path d="M352 551c20-54 42-91 87-115l90-48c25-14 69-22 112-22h137c42 0 69 14 92 42l84 106c54 9 86 41 86 91v64H201v-54c0-34 25-57 71-64l80 0Z" fill="#202830" stroke="#6b7781" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m469 470 78-42c17-9 43-16 73-16h87v99H417l52-41Zm181-58h122c25 0 40 9 55 27l56 72H650V412Z" fill="#11191f" stroke="#56616a" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="386" cy="650" r="52" fill="#101214" stroke="#9ba5ac" stroke-width="12"/>
+  <circle cx="865" cy="650" r="52" fill="#101214" stroke="#9ba5ac" stroke-width="12"/>
+  <path d="M573 578h81v52h-81z" fill="#0066b1"/>
+  <text x="600" y="730" fill="#bec6cc" font-family="Arial,sans-serif" font-size="24" letter-spacing="8" text-anchor="middle">BMW MOTORS</text>
+</svg>
